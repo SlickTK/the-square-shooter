@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.squareshooter.game",
-    "sha256_cert_fingerprints": ["PLACEHOLDER"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.slicktk.twa",
+        "sha256_cert_fingerprints": ["9D:F5:57:DC:15:53:3F:1A:F3:88:B0:1E:D2:0B:EC:2C:99:44:A1:87:01:5B:25:55:2B:BB:44:F6:D5:26:6E:49"]
+      }
+    }]
