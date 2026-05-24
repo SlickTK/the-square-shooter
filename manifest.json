@@ -1,0 +1,18 @@
+{
+  "name": "The Square Shooter",
+  "short_name": "SquareShooter",
+  "description": "Shoot the other squares! Sector Defense Protocol.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a0a0f",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
